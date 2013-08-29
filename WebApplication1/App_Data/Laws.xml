@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    - Database: 'basic_laws'
+    -->
+<Laws>
+  <!-- Table laws -->
+  <lawdetails>
+    <Id>1</Id>
+    <Description>driving without valId license</Description>
+    <Penalty>Rs.500 or 3 months imp</Penalty>
+    <Section>3 r/w 181 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>1</Id>
+    <Description>without license</Description>
+    <Penalty>Rs.1000 or 3 months</Penalty>
+    <Section>5 r/w 181 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>1</Id>
+    <Description>not carrying documents(license) as required </Description>
+    <Penalty>Rs.100 or we can show the license within 15 days</Penalty>
+    <Section>130(3) r/w 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>1</Id>
+    <Description>driving without valId insurance</Description>
+    <Penalty>Rs.1000</Penalty>
+    <Section>130 r/w 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>1</Id>
+    <Description>vehicle without  R.C  </Description>
+    <Penalty>Rs.2000</Penalty>
+    <Section>39 r/w 192 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>driving by minor</Description>
+    <Penalty>Rs.500</Penalty>
+    <Section>4 r/w 181 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>driving without helmet</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>129 r/w 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>rough/rash driving</Description>
+    <Penalty>Rs.1000</Penalty>
+    <Section>184 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>driving against one way</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>17 (i) RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>trippling</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>128/177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>violation of yellow line </Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>119/177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>violation of stop line</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>113(1)/177 DMVR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>violation of mandatory signs</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>119/177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>jumping signal</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>119/177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>exceeding the prescribed speed limits</Description>
+    <Penalty>Max Rs.1000</Penalty>
+    <Section>112-183 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>drunk and drive</Description>
+    <Penalty>Rs.2000 or 6 months imp</Penalty>
+    <Section>185 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>using mobile phone while driving</Description>
+    <Penalty>Max Rs.1000</Penalty>
+    <Section>184 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>playing music while driving </Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>102/177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>failing to give signal</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>121 RRR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>2</Id>
+    <Description>driving without silencer</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>120/190(2)/177 CMVR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>3</Id>
+    <Description>towing of 2 wheeler</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>3</Id>
+    <Description>towing of 4 wheeler light motor vehicle </Description>
+    <Penalty>Rs.200</Penalty>
+    <Section>RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>3</Id>
+    <Description>towing of 4 wheeler heavy motor vehicle</Description>
+    <Penalty>Rs.600</Penalty>
+    <Section>RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>4</Id>
+    <Description>smoking in public transport</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>86(1)(5)/177 DMVR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>4</Id>
+    <Description>pollution not under control</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>99(1)(a)/177 DMVR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>4</Id>
+    <Description>blowing pressure horn</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>96(1)/177 DMVR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>4</Id>
+    <Description>smoky exhaust</Description>
+    <Penalty>Rs.500</Penalty>
+    <Section>115 CMVR 190(2) MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>4</Id>
+    <Description>using horn in silence zone</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>21(ii) RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>5</Id>
+    <Description>without sIde mirror</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>5,7/177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>5</Id>
+    <Description>defective tyres</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>CMVR 94</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>5</Id>
+    <Description>vehicle fitted with dark glasses/sun films</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>100 CMVR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>5</Id>
+    <Description>overloading goods vehicle</Description>
+    <Penalty>Rs.2000/plus 1000 for additional ton</Penalty>
+    <Section>MMVR 93(u)(i) 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>5</Id>
+    <Description>use of colored light on vehicle</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>97(2)/177 DMVR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>6</Id>
+    <Description>misbehavior by taxi driver</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>11(3)/177 DMVR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>6</Id>
+    <Description>overcharging by taxi driver</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>118/177 DMVR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>6</Id>
+    <Description>driver without uniform</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>7/177 DMVR</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>6</Id>
+    <Description>dangerous projection of goods</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>229 MMVR 29 RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>6</Id>
+    <Description>carrying loads more than 11 feet high</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>MMVR 93(u)(i) 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>7</Id>
+    <Description>parking against flow of traffic</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>15(2) RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>7</Id>
+    <Description>parking causing obstruction</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>15(2) RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>7</Id>
+    <Description>parking in no parking area</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>15(2) RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>7</Id>
+    <Description>parking on footpath</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>15(2)(iii) RRR 177 MVA</Section>
+  </lawdetails>
+  <lawdetails>
+    <Id>7</Id>
+    <Description>parking in front of a gate</Description>
+    <Penalty>Rs.100</Penalty>
+    <Section>15(2)(viii)RRR 177 MVA</Section>
+  </lawdetails>
+</Laws>

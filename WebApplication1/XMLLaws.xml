@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Laws>
+  <lawdetails>
+    <Id>1</Id>
+    <Description>Driving without license</Description>
+    <Penalty>500</Penalty>
+    <Section>3 r/w 181 MVA</Section>
+  </lawdetails>
+
+  <lawdetails>
+    <Id>1</Id>
+    <Description>No license</Description>
+    <Penalty>1000</Penalty>
+    <Section>5 r/w 181 MVA</Section>
+  </lawdetails>
+  
+</Laws>
